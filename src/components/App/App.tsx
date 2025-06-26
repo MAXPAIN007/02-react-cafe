@@ -1,5 +1,5 @@
 import css from "./App.module.css";
-import CafeInfo from "../Cafe-info/CafeInfo";
+import CafeInfo from "../CafeInfo/CafeInfo";
 import VoteOptions from "../Vote-options/VoteOptions";
 import VoteStats from "../Vote-stats/VoteStats";
 import Notification from "../Notification/Notification";
